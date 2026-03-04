@@ -35,7 +35,7 @@ This project was built in **7 checkpoints**, each representing a real engineerin
 
 Database connected and schema created successfully.
 
-👉 At this stage the project becomes a **basic CRUD backend**.
+
 
 ---
 
@@ -55,7 +55,7 @@ Database connected and schema created successfully.
 
 Users must authenticate before accessing protected endpoints.
 
-👉 This stage reflects **intern-level backend engineering**.
+
 
 ---
 
@@ -84,7 +84,7 @@ Roles supported:
 
 Multiple users can collaborate inside workspaces.
 
-👉 This stage enters **product engineering territory**.
+
 
 ---
 
@@ -103,7 +103,7 @@ Multiple users can collaborate inside workspaces.
 
 Backend now supports real collaborative workflows.
 
-👉 The project becomes **resume-worthy**.
+
 
 ---
 
@@ -122,7 +122,7 @@ Backend now supports real collaborative workflows.
 
 System becomes more **stable and production-aware**.
 
-👉 Interviewers appreciate these details.
+
 
 ---
 
@@ -141,7 +141,7 @@ System becomes more **stable and production-aware**.
 
 Backend becomes suitable for **production workloads**.
 
-👉 Strong backend engineering candidate.
+
 
 ---
 
@@ -160,7 +160,7 @@ Backend becomes suitable for **production workloads**.
 
 Backend behaves like a **real-time collaborative platform**.
 
-👉 This puts the project in the **top 10% portfolio tier**.
+
 
 ---
 
