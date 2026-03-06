@@ -175,7 +175,7 @@ Backend behaves like a **real-time collaborative platform**.
 | JWT        | Authentication                 |
 | Uvicorn    | ASGI server                    |
 | WebSockets | Real-time communication        |
-
+| Docker     | Containerization               |
 ---
 
 # 📂 Project Structure
